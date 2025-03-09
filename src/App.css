@@ -1,0 +1,27 @@
+#root {
+  width: 100%;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-container {
+  height: 385px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 20px;
+}
+
+.humanize {
+  height: 40px;
+}
+
+#result {
+  text-align: left;
+}
