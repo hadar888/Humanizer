@@ -45,6 +45,6 @@ http://localhost:5173/
 
 - If the previous user message contains humorous context (e.g., detected by words like "lol"), add the text "hahaha" to the response.
 
-- Add a filter to detect and replace certain words before they appear multiple times.
+- Add a filler words after verbs like, 'you know' or 'like'.
 
 - Introduce human-like words that convey closeness, such as "baby" or similar expressions.
